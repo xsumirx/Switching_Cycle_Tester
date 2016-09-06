@@ -1,0 +1,1 @@
+"./LCD_16x2.obj" "./Timer.obj" "./eeprom_m95010.obj" "./main.obj" "./spi.obj" "../lnk_msp430g2452.cmd" -l"libc.a" 
